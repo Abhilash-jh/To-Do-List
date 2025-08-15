@@ -20,12 +20,11 @@ Tasks are stored in your browser’s localStorage, so they remain saved even aft
 🌐 Live Demo
 
 🔗 Click here to try the app
-
+  https://abhilash-jh.github.io/To-Do-List/
 
 📸 Preview
 
-
-(Add a screenshot of your app here)
+<img width="482" height="380" alt="image" src="https://github.com/user-attachments/assets/9039cc0e-a7bd-46f7-9672-8dd926e5cadc" />
 
 🛠️ How It Works
 
