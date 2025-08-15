@@ -15,22 +15,26 @@ Tasks are stored in your browser’s localStorage, so they remain saved even aft
 
 🎨 Clean and responsive UI with smooth animations.
 
+
 📂 Project Structure
-.
+
 ├── index.html   # Main HTML file
 
 ├── style.css    # Styling and layout
 
 └── script.js    # Functionality and localStorage logic
 
+
 🌐 Live Demo
 
 🔗 Click here to try the app
   https://abhilash-jh.github.io/To-Do-List/
+  
 
 📸 Preview
 
 <img width="482" height="380" alt="image" src="https://github.com/user-attachments/assets/9039cc0e-a7bd-46f7-9672-8dd926e5cadc" />
+
 
 🛠️ How It Works
 
