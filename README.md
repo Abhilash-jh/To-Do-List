@@ -29,8 +29,11 @@ Tasks are stored in your browser’s localStorage, so they remain saved even aft
 🛠️ How It Works
 
 Add Task → Type your task in the input field and press Enter.
+
 Mark Complete → Check the box to strike through a completed task.
+
 Delete Task → Click the "–" icon to remove a task.
+
 Auto Save → Your tasks are automatically saved in your browser’s localStorage.
 
 
@@ -54,10 +57,13 @@ open index.html
 
 🧰 Technologies Used
 
-HTML5 – Page structure
-CSS3 – Styling & layout
-JavaScript (jQuery) – Interactivity
-localStorage – Persistent data storage
+HTML5 – Page structure.
+
+CSS3 – Styling & layout.
+
+JavaScript (jQuery) – Interactivity.
+
+localStorage – Persistent data storage.
 
 
 📜 License
