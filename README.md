@@ -6,15 +6,21 @@ Tasks are stored in your browser’s localStorage, so they remain saved even aft
 🚀 Features
 
 ➕ Add new tasks instantly by pressing Enter.
+
 ✅ Mark tasks as completed using checkboxes.
+
 ❌ Delete tasks with a click.
+
 💾 Persistent storage using localStorage.
+
 🎨 Clean and responsive UI with smooth animations.
 
 📂 Project Structure
 .
 ├── index.html   # Main HTML file
+
 ├── style.css    # Styling and layout
+
 └── script.js    # Functionality and localStorage logic
 
 🌐 Live Demo
